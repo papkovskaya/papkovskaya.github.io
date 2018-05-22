@@ -159,7 +159,6 @@ body {
 .info-container-wrapper {
     width: 100%;
     position: absolute;
-    bottom: 1%;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 30px;
     letter-spacing: 1px;
