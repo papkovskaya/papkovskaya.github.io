@@ -1,0 +1,32 @@
+body {
+  background: azure;
+}
+
+.field {
+  margin: 0 auto;
+  border-style: solid;
+  border-width: 4px;
+  border-color: white;
+  width: 620px;
+  height: 620px;
+}
+
+.cell {
+  display: inline-block;
+  border-style: solid;
+  width: 30px;
+  height: 30px;
+  border-width: 0.5px;
+  border-color: black;
+}
+
+.snake-cell {
+  display: inline-block;
+  background: green;
+  width: 31px;
+  height: 31px;
+}
+
+.row {
+  height: 30px;
+}
